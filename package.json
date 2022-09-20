@@ -4,7 +4,8 @@
   "description": "a module that isn't very useful",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose --coverage"
+    "test": "jest --verbose --coverage",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
