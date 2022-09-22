@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JordanYamada/server-deployment-practice.git"
+    "url": "https://github.com/m11gz/server-deployment-practice"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/JordanYamada/server-deployment-practice/issues"
+    "url": "https://github.com/m11gz/server-deployment-practice/issues"
   },
-  "homepage": "https://github.com/JordanYamada/server-deployment-practice#readme"
+  "homepage": "https://github.com/m11gz/server-deployment-practice#readme"
 }
