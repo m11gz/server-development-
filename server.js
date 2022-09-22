@@ -18,8 +18,8 @@ app.get('/params/:name', (request, response) => {
   let name = request.params.name;
   response.json({
     name,
-  });
-});
+  }); 
+}); 
 
 // query parameters
 app.get('/query', (request, response) => {

@@ -10,7 +10,7 @@ How do I install the app or library?
 Clone this app and install all dependencies.
 
 How do I test the app or library?
-Run "NPM test" in the terminal once all dependencies are installed.
+Run "NPM test" in the terminal once all dependencies are installed. 
 
 For Applications:
 How do I run the app?
